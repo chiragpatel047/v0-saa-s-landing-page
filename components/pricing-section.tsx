@@ -8,7 +8,7 @@ const pricingPlans = [
   {
     name: "Starter",
     price: "Free",
-    description: "Perfect for getting started with v0",
+    description: "Perfect for getting started with SasSify",
     features: ["5 components per month", "Basic templates", "Community support", "Standard components"],
     popular: false,
     cta: "Get Started",
